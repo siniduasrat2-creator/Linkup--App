@@ -20,7 +20,7 @@ Week 1 – User Research & Wireframing
 
 
  Files in This Repository
-- `LinkUp_Wireframes.pdf` – Low-fidelity wireframes of 5 main screens  
+- `LinkUp_Wireframes.png` – Low-fidelity wireframes of 5 main screens  
 - `User_Research_Case_Study.pdf` – Brief research document & insights  
 
 Tools Used
